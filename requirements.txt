@@ -6,4 +6,4 @@ yt
 xarray
 netcdf4
 h5py
-
+dask[complete]
