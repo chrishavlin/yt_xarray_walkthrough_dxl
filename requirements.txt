@@ -1,0 +1,9 @@
+jupyterlab
+xWRF
+jupyterlab-deck
+yt_xarray
+yt
+xarray
+netcdf4
+h5py
+
